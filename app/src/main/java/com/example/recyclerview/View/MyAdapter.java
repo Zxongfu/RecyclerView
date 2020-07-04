@@ -1,4 +1,4 @@
-package com.example.recyclerview.Controller;
+package com.example.recyclerview.View;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -16,7 +16,7 @@ import java.util.List;
 
 class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyViewHolder> {
 
-    private List<Book> data ;
+    private List<Book> data;
 
     //Constructor
     public MyAdapter(List<Book> data) {

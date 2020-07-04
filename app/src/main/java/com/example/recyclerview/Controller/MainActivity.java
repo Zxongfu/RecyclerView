@@ -8,6 +8,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.recyclerview.Model.Book;
 import com.example.recyclerview.R;
+import com.example.recyclerview.View.MyAdapter;
 
 import java.util.ArrayList;
 import java.util.List;
