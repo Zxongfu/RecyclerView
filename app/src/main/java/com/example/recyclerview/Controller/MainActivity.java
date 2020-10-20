@@ -1,4 +1,4 @@
-package com.example.recyclerview.View;
+package com.example.recyclerview.Controller;
 
 import android.os.Bundle;
 
