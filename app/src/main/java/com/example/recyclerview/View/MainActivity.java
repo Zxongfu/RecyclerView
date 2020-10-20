@@ -1,4 +1,4 @@
-package com.example.recyclerview.Controller;
+package com.example.recyclerview.View;
 
 import android.os.Bundle;
 
@@ -6,9 +6,11 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+
+
+import com.example.recyclerview.Controller.MyAdapter;
 import com.example.recyclerview.Model.Book;
 import com.example.recyclerview.R;
-import com.example.recyclerview.View.MyAdapter;
 
 import java.util.ArrayList;
 import java.util.List;
